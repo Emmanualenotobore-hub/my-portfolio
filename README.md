@@ -48,6 +48,13 @@
   </section>
 <section id="projects">
     <h2>My Projects</h2>
+  ## 🎓 Academic Project
+
+### Brain Tumor Segmentation using Deep Learning
+Master’s dissertation project focused on medical image segmentation
+using CNN and Transformer-based deep learning models.
+
+📁 Project folder: projects/brain-tumor-segmentation
     <div class="project-card">
       <img src="images/project1.jpg" alt="Project 1">
       <h3>Project Title 1</h3>
