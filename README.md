@@ -8,9 +8,6 @@
 <body>
 
   <header>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/241125950?v=4" width="160" style="border-radius: 50%;" />
-</p>
 
 <h1 align="center"> Emmanuel Enotobore Aiyanbhor</h1>
 <h3 align="center">MSc Data Science | Medical AI | Deep Learning</h3>
