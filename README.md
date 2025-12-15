@@ -8,7 +8,12 @@
 <body>
 
   <header>
-    <h1>Emmanuel Enotobore Aiyanbhor | Portfolio</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/241125950?v=4" width="160" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center"> Emmanuel Enotobore Aiyanbhor</h1>
+<h3 align="center">MSc Data Science | Medical AI | Deep Learning</h3>
     
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
