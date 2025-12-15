@@ -13,6 +13,7 @@
       <ul>
         <li><a href="#about">About</a></li>
         <Li><a href="#education">Education</a></Li>
+        <li><a href="#services">Services</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -46,6 +47,56 @@
   <li>Master of Science in Artificial Intelligence Data Science – University of East London (September 2024 - Present)</li>
 </ul>
   </section>
+  <section id="services">
+  <h2>Services</h2>
+
+  <div class="services-container">
+    <div class="service-card">
+      <h3>Data Science & Analytics</h3>
+      <p>
+        Data cleaning, exploratory data analysis (EDA), feature engineering,
+        and statistical analysis to extract insights and support
+        data-driven decision making.
+      </p>
+    </div>
+    <div class="service-card">
+      <h3>Machine Learning Model Development</h3>
+      <p>
+        Design, training, and evaluation of machine learning models for
+        classification, regression, and prediction tasks using real-world data.
+      </p>
+    </div>
+    <div class="service-card">
+      <h3>Deep Learning & Computer Vision</h3>
+      <p>
+        Development of deep learning models for image classification,
+        object detection, and medical image segmentation using CNNs
+        and Transformer-based architectures.
+      </p>
+    </div>
+    <div class="service-card">
+      <h3>Model Optimization & Evaluation</h3>
+      <p>
+        Hyperparameter tuning, performance evaluation, and model optimization
+        to improve accuracy, robustness, and generalization.
+      </p>
+    </div>
+    <div class="service-card">
+      <h3>AI Research & Prototyping</h3>
+      <p>
+        Research-oriented AI development, experiment design, and prototyping
+        of novel machine learning approaches for academic or industrial use.
+      </p>
+    </div>
+    <div class="service-card">
+      <h3>Deployment & AI Integration</h3>
+      <p>
+        Deployment of machine learning models and integration into
+        applications or workflows using Python-based tools and frameworks.
+      </p>
+    </div>
+  </div>
+</section>
 <section id="projects">
     <h2>My Projects</h2>
   <div class="project-card">
