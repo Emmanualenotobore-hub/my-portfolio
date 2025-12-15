@@ -56,14 +56,14 @@
   </p>
   <p>
     <strong>Tech:</strong> Python, PyTorch, MONAI
-  </p>
-  <a href="[https://github.com/Emmanuelenotobore-hub/my-portfolio/tree/main/projects/brain-tumor-segmentation](https://github.com/Emmanualenotobore-hub/my-portfolio/tree/main/projects/brain-tumor-segmentation)"
-     target="_blank">
-     View Project on GitHub
-  </a>
+  </p
+  <a href="https://github.com/Emmanuelenotobore-hub/my-portfolio/tree/main/projects/brain-tumor-segmentation"
+   target="_blank">
+   View Project on GitHub
+</a>
 </div>
     <div class="project-card">
-</section>
+    </section>
 
   <section id="contact">
     <h2>Contact Me</h2>
