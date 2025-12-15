@@ -25,7 +25,6 @@ The hybrid model significantly outperformed the baseline CNN model:
 | Specificity  | 0.947        | 0.955                 |
 
 **Example Segmentation Output:**  
-![Sample Segmentation](results/plots/sample.png)
 
 The results demonstrate that adding Transformer elements improves the model’s ability to capture global context, producing smoother and more comprehensive tumor segmentations.
 
