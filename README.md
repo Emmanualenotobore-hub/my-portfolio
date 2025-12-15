@@ -48,23 +48,21 @@
   </section>
 <section id="projects">
     <h2>My Projects</h2>
-  ## 🎓 Academic Project
-
-### Brain Tumor Segmentation using Deep Learning
-Master’s dissertation project focused on medical image segmentation
-using CNN and Transformer-based deep learning models.
-
-📁 Project folder: projects/brain-tumor-segmentation
+  <div class="project-card">
+  <h3>Brain Tumor Segmentation using Deep Learning</h3>
+  <p>
+    Master’s dissertation project focused on automatic brain tumor
+    segmentation from MRI scans using deep learning models.
+  </p>
+  <p>
+    <strong>Tech:</strong> Python, PyTorch, MONAI
+  </p>
+  <a href="https://github.com/Emmanualenotobore-hub/your-portfolio-repo/tree/main/projects/brain-tumor-segmentation"
+     target="_blank">
+     View Project on GitHub
+  </a>
+</div>
     <div class="project-card">
-      <img src="images/project1.jpg" alt="Project 1">
-      <h3>Project Title 1</h3>
-      <p>Short description of what you built.</p>
-    </div>
-    <div class="project-card">
-      <img src="images/project2.jpg" alt="Project 2">
-      <h3>Project Title 2</h3>
-      <p>Another project description.</p>
-    </div>
 </section>
 
   <section id="contact">
