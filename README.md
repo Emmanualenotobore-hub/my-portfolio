@@ -8,7 +8,6 @@
 <body>
 
   <header>
-
 <h1 align="center"> Emmanuel Enotobore Aiyanbhor</h1>
 <h3 align="center">MSc Data Science | Medical AI | Deep Learning</h3>
     
